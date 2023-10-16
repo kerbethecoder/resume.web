@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `resume.web`,
+    title: `Web CV - kerbethecoder`,
     description: `A website that features the author's cv contents.`,
     author: `@kerbethecoder`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
