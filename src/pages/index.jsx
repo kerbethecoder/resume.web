@@ -1,6 +1,7 @@
 import React from "react"
 
 import Layout from "../components/Layout"
+import Seo from "../components/Seo"
 import {
   skills,
   education,
@@ -14,6 +15,7 @@ const index = () => {
 
   return (
     <Layout>
+      <Seo />
       <div className="flex flex-col lg:grid lg:grid-cols-2 lg:px-72">
         <h1 className="red col-span-2 text-4xl text-blue font-bold">
           Kerby Norwelle A. Cantos
