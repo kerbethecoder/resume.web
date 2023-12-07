@@ -51,12 +51,12 @@ const index = () => {
             <div className="flex items-center gap-2 mb-1">
               <ion-icon name="globe-outline"></ion-icon>
               <a
-                href="https://kerbethecoder.netlify.app/"
+                href="https://kerbethecoder.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:underline hover:text-blue font-bold text-sm"
               >
-                kerbethecoder.netlify.app
+                kerbethecoder.com
               </a>
             </div>
             <div className="flex items-center gap-2">
