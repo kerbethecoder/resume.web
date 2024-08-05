@@ -1,12 +1,13 @@
 export const skills = {
-  "Programming Languages": ["HTML", "JavaScript", "CSS"],
-  "Frameworks & Libraries": [
-    "Vue.js",
+  Technologies: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Vue",
     "React",
     "Gatsby",
     "Tailwind CSS",
-    "Bootstrap",
-    "NestJS",
+    "Next",
   ],
   "Tools & Platforms": ["Git", "GitHub", "Figma", "Netlify", "Vercel"],
 }
@@ -47,10 +48,6 @@ export const reference = {
   secundaPersona: {
     name: "Kim Lian Lopez",
     position: "Senior Web Developer",
-    link: {
-      title: "BookBrush",
-      url: "https://bookbrush.com/",
-    },
     contact: "0995 536 8313",
   },
 
@@ -99,15 +96,15 @@ export const experience = {
       "Participated in code modification and conversion of legacy code, gaining a deep understanding of developer challenges and best practices.",
     ],
   },
-  tertius: {
-    title: "Videographer & Video Editor",
-    duration: "August 2021 &#8212; October 2021",
-    work: "Digital Campaign Team",
-    gains: [
-      "Successfully produced and edited videos to fulfill campaign objectives for a local politician, showcasing my creativity, and attention to detail.",
-      "Developed strong collaborative skills within a corporate-like environment, fostering effective teamwork and adaptability.",
-    ],
-  },
+  // tertius: {
+  //   title: "Videographer & Video Editor",
+  //   duration: "August 2021 &#8212; October 2021",
+  //   work: "Digital Campaign Team",
+  //   gains: [
+  //     "Successfully produced and edited videos to fulfill campaign objectives for a local politician, showcasing my creativity, and attention to detail.",
+  //     "Developed strong collaborative skills within a corporate-like environment, fostering effective teamwork and adaptability.",
+  //   ],
+  // },
   quartus: {
     title: "Basic Retail Inventory System",
     duration: "2021",

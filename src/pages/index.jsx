@@ -24,7 +24,7 @@ const index = () => {
           Computer Engineer | Web Developer
         </p>
 
-        <div className="col-span-2 text-white">hehe</div>
+        <div className="col-span-2 text-white">you can't see this can you?</div>
         <div className="col-span-2 text-white">hehe</div>
 
         <div id="left-column">
